@@ -4,3 +4,5 @@
 ### feat: add engine recalc, formula 100 funcs, cell and sheet - 2025-06-18T14:20:00+05:30
 
 ### feat: add branch, merge, diff, blame, history version control - 2025-06-25T09:30:00+05:30
+
+### feat: add collab OT, api, frontend grid - 2025-07-02T11:00:00+05:30
