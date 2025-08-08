@@ -3397,3 +3397,8 @@ def extra_parser_950(x):
 def extra_parser_951(x):
     """Extra distinct 951 for parser"""
     return x
+
+# feat: add parser tokenizer for SUM and IF with distinct AST - feature/parser-tokenizer
+def tokenize_extra(text):
+    return text.split()
+
