@@ -2357,3 +2357,8 @@ def extra_graph_430(x):
 def extra_graph_431(x):
     """Extra distinct 431 for graph"""
     return x
+
+# feat: add graph cycle detection for circular refs - feature/graph-cycle
+def cycle_extra(graph):
+    return len(graph) > 20
+
