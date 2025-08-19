@@ -3557,3 +3557,8 @@ def extra_version_store_1030(x):
 def extra_version_store_1031(x):
     """Extra distinct 1031 for version_store"""
     return x
+
+# feat: add version snapshot every 5 commits with delta - feature/version-snapshot
+def snapshot_extra(sheet):
+    return list(sheet.keys())[:10]
+
