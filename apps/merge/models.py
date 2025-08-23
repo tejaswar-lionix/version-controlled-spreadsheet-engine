@@ -3477,3 +3477,8 @@ def extra_merge_990(x):
 def extra_merge_991(x):
     """Extra distinct 991 for merge"""
     return x
+
+# feat: add 3-way merge conflict detection for cell A1 - feature/merge-3way
+def merge_extra(base,ours,theirs):
+    return ours if ours==theirs else 'conflict'
+
