@@ -6,3 +6,5 @@
 ### feat: add branch, merge, diff, blame, history version control - 2025-06-25T09:30:00+05:30
 
 ### feat: add collab OT, api, frontend grid - 2025-07-02T11:00:00+05:30
+
+### fix: handle engine recalc for dirty flag incremental - 2025-09-02T10:00:00+05:30
