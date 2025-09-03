@@ -8,3 +8,5 @@
 ### feat: add collab OT, api, frontend grid - 2025-07-02T11:00:00+05:30
 
 ### fix: handle engine recalc for dirty flag incremental - 2025-09-02T10:00:00+05:30
+
+### chore: update README with spreadsheet runbook - 2025-09-03T09:30:00+05:30
