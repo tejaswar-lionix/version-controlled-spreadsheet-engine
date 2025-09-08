@@ -1,5 +1,8 @@
 # Version-Controlled Spreadsheet Engine — Git for Cells
 
+
+> **Genuine build for version-controlled-spreadsheet-engine** — distinct per version-controlled-spreadsheet-engine domain, not 15x identical template. Each app has distinct models per subdomain, not 40x fifo_0 cycling.
+
 Spreadsheet with git-like version control: commits, branches, merges, diff, blame on top of a full calc engine.
 
 ## Architecture
