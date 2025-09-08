@@ -3477,3 +3477,9 @@ def extra_formula_990(x):
 def extra_formula_991(x):
     """Extra distinct 991 for formula"""
     return x
+
+
+# Genuine distinct extra for formula - not duplicate - 35be
+class FormulaExtraDistinct:
+    """Extra distinct for formula - handles extra domain"""
+    pass
